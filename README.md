@@ -170,10 +170,168 @@ Vc=50v
 
 Vd=(100K/1.1 M)50v=4.55v
 
+    18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.
+ 
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/9.PNG)
+
+Rt=(10K//(4.7 K+5.6K))+(1.8K//(1K+1K))
+
+Rt=10K//10.3K+1.8K//2K
+
+Rt=5.07 K + 947 K= 6.02 K
+
+    20. Determine el voltaje, VAB, en la figura 7-69.
+
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/10.PNG)
+
+Resistencia de la lado derecha:
+
+Rd=R2+R5//R6+R7+R8=330 +600+680+100=1710
+
+Resistencia del lado izquierdo:
+
+Rz=R3+R4=470+560=1030
+
+Resistencia total:
+
+Rtotal=R1+Rz//Rd=1 K +643=1.64 K
+
+Itotal=(100V/1.64 K)=60.9 mA
+
+Corriente del lado derecho:
+
+Id=(Rz/Rz+Rd)Itotal=(1030/2740)60.9 mA=22.9 mA
+
+Corriente del lado izquierdo:
+
+Iz=(Rd/Rd+Rz)Itotal=(1710/2740)60.9 mA=38.0 mA
+
+    * 22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC,RAD, RAE, RAF, y RAG).
+
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/11.PNG)
+
+RAB=R1//(R2+R7+R8)= 1K//(2.2K+3.3K+4.7K)=1K//10.2K=911
+
+RAG=R8//(R1+R2+R7)= 4.7K//(1K+2.2K+3.3K)=4.7K//6.5K=2.73K
+
+RAC=(R1+R2)//(R7+R8)= (1K+2.2K)//(3.3K+4.7K)=3.2K//8K=2.29K
+
+RAD=RAC+R3//(R4+R5+R6)= 2.29K+1K//10.2K=3.2 K
+
+RAE=RAC+(R3+R4)//(R5+R6)=2.29K+3.2K//8K=4.58K
+
+RAF=RAC+R6//(R3+R4+R5)= 2.29K+4.7K//6.5K=5.02 K
+
+    * 24. Determine el valor de cada resistor mostrado en la figura 7-73.
+
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/12.PNG)
+
+V2=V5-V6=5V-1V=4V
+
+I2=I6=2/4V==0.5A
+
+I5=I8-I6=1A-0.5A=0.5A
+
+I1=I2+I5+I4=0.5A+0.5A+1A=2A
+
+I3=IT-I1=40V-20V=20V
+
+V1=20/2A=10V
+
+V4=V3-V1=10V
+
+V8=V4-V5=5V
+
+R1=(10V/2A)=5
+
+R2=(4V/0.5A)=8
+
+R3=(20V/2A)=10
+
+R4=(10V/1A)=10
+
+R5=(5V/0.5A)=10
+
+R6=(1V/0.5A)=2
+
+R7=(20V/4A)=5
+
+R8=(5V/1A)=5
+
+    26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 k para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga de 10k a la más alta de las salidas, ¿cuál será su valor con carga?
+
+VA=(6.6K/9.9K)12V=8V
+
+VB=(3.3K/9.9K)12V=4V
+
+RAB=(6.6Kx10K)/(6.6K+10K)=3.98K
+
+VA=(3.98K/7.28K)12V=6.56 V
+
+    28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga de 100 k conectada de A a B, ¿cuál es el voltaje de salida?
+
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/13.PNG)
+
+RT=10K+5.6K+2.7K=18.3K
+
+VAF=(R2+R3/R1+R2+R3)VS=(8.3K/18.3K)22V=9.98V
+
+Con 100k:
+
+Rt=R1+((R2+R3)RL/(R2+R3+RL))=10K+((8.3K)100K/108.3K)=17.7K
+
+VOU=(7.7K/17.7K)22V=9.57 V
+
+    30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de salida. Con una carga de 33 k, ¿cuál es la corriente extraída?
+    
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/13.PNG)
+
+RT=10K+5.6K+2.7K=18.3K
+
+I=(22 V/18.3K)=1.2 mA
+
+RT=10K+[(8.3K x 33K)/8.3K + 33K]=16.6K
+
+I=(22 V/16.6 K)=1.33 mA
+
+    32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje en cada toma (V1, V2 y V3) para cada posición del interruptor.
+
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/14.PNG)
+
+Parte 1:
+
+RT=10K+30K//68K =10K+20.82K=30.8K
+
+V1=(20.8K/30.8K)120V=81 V
+
+V2=(20K/30K)81 V=54 V
+
+V3=(10K/30K)81 V=27 V
+
+Parte 2:
+
+RT=20K+20K//68K =20K+15.5K=35.5K
+
+V1=(10K+15.5k/35.5K)120V=86.2 V
+
+V2=(15.5K/35.5K)81 V=52.4 V
+
+V3=(10K/20K)52.4 V=26.2 V
+
+Parte 3:
+
+RT=30K+10K//68K =30K+8.72K=38.7K
+
+V1=(20K+8.72k/38.7K)120V=89 V
+
+V2=(10K+8.72k/38.7K)120V=58 V
+
+V3=(8.72K/38.7K)81 V=27 V
+
+
+
+
+
+
     
 
-
- 
- 18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.
- 
- 
