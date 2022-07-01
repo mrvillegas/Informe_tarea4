@@ -368,15 +368,13 @@ V3=(8.72K/38.7K)81 V=27 V
 
  **Video:**
 
-https://www.youtube.com/watch?v=LakYGczWRlQ
+https://www.youtube.com/watch?v=JFbY4-Rvbfc
 
  **Conclusiones:**
  
--  La resolucion de los ejercicios propuestos tanto del capitulo 3 como tambien del capitulo 4 ayudo en la comprencion de como se comporta la intensidad en comparacion tanto del voltaje y la resistencia, vistos con la ley de ohm; se comprendio la relacion que existe entre la energia y potencia, y la relacion que existe de la potencia en un circuito electrico.
+-  La resolucion de los ejercicios propuestos tanto del capitulo 3 como tambien del capitulo 7 como 8 ayudo en la nuevas formas de resolver un circuito, y poder encontrar sus resistencia,corrientes y voltajes dependiendo de su complejidad.
 
-- Se logro la comprencion del comportamiento de la corriente como tambien del voltaje que existe en un circuito en paralelo con las leyes de kirchoff.
-
-- Se comprendio como se porta la grafica de la intensidad en funcion del voltaje, el cual es una grafica lineal dado que la intensidad es directamente proporcional al voltaje, quiere decir que si el uno aumenta, el otro lo hace de igual manera de forma proporcional y asi de la misma manera al disminuir. En cambio la grafica de la Intensidad en funcion de la Resistencia es una hioerbola dado que si uno aumenta el otro decrece y asi de la misma forma si el uno disminuye el otro aumenta de forma proporcional.
+- Se logro la comprencion del comportamiento de la corriente como tambien del voltaje que existe en un circuito con diferentes fuentes de voltaje.
 
   **Bibliografia:**
   
