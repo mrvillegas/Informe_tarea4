@@ -328,10 +328,40 @@ V2=(10K+8.72k/38.7K)120V=58 V
 
 V3=(8.72K/38.7K)81 V=27 V
 
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/15.jpg)
 
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/16.jpg)
 
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/17.jpg)
 
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/18.jpg)
 
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/19.jpg)
 
-    
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/20.jpg)
 
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/21.jpg)
+
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/22.jpg)
+
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/23.jpg)
+
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/24.jpg)
+
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/25.jpg)
+
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/26.jpg)
+
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/27.jpg)
+
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/28.jpg)
+
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/29.jpg)
+
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/30.jpg)
+
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/31.jpg)
+
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/32.jpg)
+
+![1](https://github.com/mrvillegas/Informe_tarea4/blob/main/33.jpg)
